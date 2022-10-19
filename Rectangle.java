@@ -1,4 +1,4 @@
-public class Rectangle
+public class Rectangle //class name
 {
     private int width;
     private int length;
@@ -14,7 +14,7 @@ public class Rectangle
         return width * length;
     }
     
-    public static void rectEquations()
+    public static void rectEquations() //rectEquations is the method
     {
 	    System.out.println("The formula for area is: L * W");
 	    System.out.println("The formula for perimeter is: 2(L + W)");
