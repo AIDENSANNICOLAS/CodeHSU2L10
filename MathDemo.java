@@ -20,8 +20,6 @@ public class MathDemo{
         //use exponents
         double powerExample = Math.pow(7, 5);
         System.out.println("7 to the 5th power is: " + (int) powerExample);
-
-
         
         //find the sin, cos, and tan of an angle
         int angle1 = 60;
